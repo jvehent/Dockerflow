@@ -106,4 +106,4 @@ workflows:
             tags:
               only: /.*/
             branches:
-              only:master
+              only: master
